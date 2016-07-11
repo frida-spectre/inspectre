@@ -8,10 +8,12 @@ How to build
 ------------
 
 1. Install Python dependencies:
+    
     ```
     pip install -r requirements.txt
     ```
 2. Build:
+    
     ```
     build.cmd
     ```

@@ -1,0 +1,5 @@
+{
+    "target" : "./app.exe",
+    "script" : "./app.js",
+    "resumeOnStartup" : true
+}

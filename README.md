@@ -9,7 +9,6 @@ How to build
 
 1. Install Python dependencies:
 
-<<<<<<< HEAD
 ```
 pip install -r requirements.txt
 ```
@@ -19,10 +18,3 @@ pip install -r requirements.txt
 ```
 build.cmd
 ```
-=======
-    pip install -r requirements.txt
-
-2. Build:
-
-    build.cmd
->>>>>>> 2269b8769fabe974e0d83310408cf85d0c048a3d

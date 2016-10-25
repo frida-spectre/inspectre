@@ -10,6 +10,9 @@ def main():
     if config['resumeOnStartup']:
         sys.argv.append('--no-pause')
 
+    if config['quiet']:
+        sys.argv.append('--quiet')
+
     frida.repl.main()
 
 if __name__ == '__main__':
